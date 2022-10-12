@@ -1,0 +1,4 @@
+If i want to disable AutoUpdate we can follow this step
+1) open run comman enter regedit
+2) Inside Registyr navigate to Hkey_local_machine>software>policies>google>update
+3) double click on update after change value 1 to 0
